@@ -1,5 +1,4 @@
 ## Hi there 👋
-# Hi, I'm Adithya Krishna 👋
 
 ## 👨‍💻 About Me
 
