@@ -8,24 +8,11 @@ class Adithya:
     name = "Adithya Krishna"
     location = "India 🇮🇳"
     role = "Student Developer"
-
-    focus = [
-        "Python Development",
-        "Backend Development",
-        "Machine Learning"
-    ]
-
-    learning = [
-        "Python",
-        "FastAPI",
-        "Data Structures & Algorithms",
-        "Machine Learning"
-    ]
-
+    focus = [ "Python Development", "Backend Development", "Machine Learning" ]
+    learning = [ "FastAPI", "DSA", "Building Projects" ]
     goal = "Become a skilled software developer 🚀"
 
-    fun_fact = "I learn by building projects and solving problems 💻"
-```
+
 
 ---
 
@@ -79,7 +66,7 @@ A web-based project focused on analyzing menstrual cycle information and providi
 
 ---
 
-### 🚧 More Projects Coming Soon...
+### 🚧 More Projects  Soon...
 
 Currently building my skills and working towards creating more real-world applications.
 
