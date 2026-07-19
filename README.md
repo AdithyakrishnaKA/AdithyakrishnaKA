@@ -65,7 +65,18 @@ A web-based project focused on analyzing menstrual cycle information and providi
 
 ---
 
-### 🚧 More Projects  Soon...
+### 🚧
+🐍 Python Calculator
+Basic calculator application built to practice Python fundamentals.
+
+🛒 Python Shopping Cart
+Simple billing system to practice loops, lists and application logic.
+
+⚖️ Weight Converter
+Unit conversion program built using Python conditionals.
+
+🗳️ Election Age Verifier
+Python program that checks voting eligibility.
 
 Currently building my skills and working towards creating more real-world applications.
 
