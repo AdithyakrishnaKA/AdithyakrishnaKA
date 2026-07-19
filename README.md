@@ -126,7 +126,7 @@ Building Real-World Applications
 - 👯 I’m looking to collaborate on PYTHON WITH FAST API
 - 💬 Ask me about coding
 - 📫 How to reach me: kaadithyakrishna7@gmail.com
-                     www.linkedin.com/in/adithya-k-144a02379
+                     https://www.linkedin.com/in/adithya-k-144a02379/
 
 
 - 😄 Pronouns: he/him
