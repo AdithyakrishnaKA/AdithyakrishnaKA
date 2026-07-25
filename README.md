@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Adithya Krishna
 
-<!--
-**AdithyakrishnaKA/AdithyakrishnaKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Banner will go here -->
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=AdithyakrishnaKA&style=for-the-badge"/>
+</p>
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Engineering student
+- 🐍 Currently learning Python
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🚀 Building projects and improving every day
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
+</p>
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=AdithyakrishnaKA&show_icons=true&theme=tokyonight" />
