@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="./dark%20t.png" width="100%">
+  <img src="./dark%20t%20%281%29.png" width="100%">
 </p>
 
 <br>
@@ -63,7 +63,7 @@
 <h2>🛠️ Tech Stack</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,sql,fastapi,react,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,sql,fastapi,react,mongodb" />
 </p>
 
 <br>
@@ -87,7 +87,7 @@
 - 🛒 **Shopping Billing Counter** — A Python-based billing system.
 - ⚖️ **Weight Converter** — A simple Python conversion tool.
 - 🗳️ **Election Age Verifier** — A Python program that verifies voting eligibility.
-- 🔐 **Username Login Browser** — A project exploring login and username validation.
+- 🔐 **Username Login Browser** — A project exploring username and login validation.
 
 <br>
 
