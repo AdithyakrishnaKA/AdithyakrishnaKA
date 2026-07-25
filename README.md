@@ -32,8 +32,10 @@
 
 <h2>👨‍💻 About Me</h2>
 
-```python
-class AdithyaKrishna:
+<p>
+<h2>👨‍💻 About Me</h2>
+
+<pre><code>class AdithyaKrishna:
     name       = "Adithya Krishna"
     location   = "India 🇮🇳"
     role       = "Python Full-Stack Developer"
@@ -41,3 +43,66 @@ class AdithyaKrishna:
     learning   = ["Advanced Python", "FastAPI", "React", "Machine Learning"]
     side_quest = "Building projects and improving every day 🚀"
     fun_fact   = "I build things that connect code, applications, AI, and the real world 🤖"
+</code></pre>
+<br>
+
+<!-- ===================== TECH STACK ===================== -->
+
+<h2>🛠️ Tech Stack</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,sql,fastapi,react,mongodb" />
+</p>
+
+<br>
+
+<!-- ===================== TOOLS & DEVOPS ===================== -->
+
+<h2>⚙️ Tools & DevOps</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker,vercel,netlify" />
+</p>
+
+<br>
+
+<!-- ===================== PROJECTS ===================== -->
+
+<h2>🚀 Projects</h2>
+
+- 🩸 **Menstrual Cycle Analyser** — A Python-based project for menstrual cycle analysis.
+- 🧮 **Python Calculator** — A calculator built while learning Python fundamentals.
+- 🛒 **Shopping Billing Counter** — A Python-based billing system.
+- ⚖️ **Weight Converter** — A simple Python conversion tool.
+- 🗳️ **Election Age Verifier** — A Python program that verifies voting eligibility.
+- 🔐 **Username Login Browser** — A project exploring username and login validation.
+
+<br>
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdithyakrishnaKA&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyakrishnaKA&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyakrishnaKA&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
+
+<!-- ===================== FOOTER ===================== -->
+
+<p align="center">
+  🚀 Always learning. Always building. Always improving.
+</p>
