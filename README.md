@@ -37,8 +37,7 @@ class AdithyaKrishna:
     name       = "Adithya Krishna"
     location   = "India 🇮🇳"
     role       = "Python Full-Stack Developer"
-    focus      = ["Python", "AI/ML", "IoT", "Web Development"]
-    learning   = ["FastAPI", "React", "Machine Learning", "IoT"]
-    projects   = ["Menstrual Cycle Analyser", "Python Projects"]
-    goal       = "Building intelligent applications and connected systems 🚀"
-    fun_fact   = "I turn ideas into code, projects, and experiments 🤖"
+    focus      = ["Full-Stack Development", "AI/ML", "IoT"]
+    learning   = ["Advanced Python", "FastAPI", "React", "Machine Learning"]
+    side_quest = "Building projects and improving every day 🚀"
+    fun_fact   = "I build things that connect code, applications, AI, and the real world 🤖"
