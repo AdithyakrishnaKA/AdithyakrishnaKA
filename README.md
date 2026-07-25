@@ -1,8 +1,10 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" width="100%">
+  <img src="./dark%20t.png" width="100%">
 </p>
+
+<br>
 
 <!-- ===================== SOCIAL LINKS ===================== -->
 
@@ -24,48 +26,95 @@
 
 </p>
 
----
+<br>
 
 <!-- ===================== ABOUT ME ===================== -->
 
-## 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
+<p>
 🎓 Computer Science Engineering student passionate about technology and continuous learning.
+</p>
 
+<p>
 🐍 Currently building a strong foundation in Python and programming fundamentals.
+</p>
 
-🤖 Interested in Artificial Intelligence, Machine Learning, and modern software development.
+<p>
+🚀 Aspiring Python Full-Stack Developer exploring backend, frontend, AI/ML, and IoT.
+</p>
 
-🌐 Exploring Full-Stack Development with technologies like FastAPI and React.
+<p>
+🤖 Interested in Artificial Intelligence and Machine Learning.
+</p>
 
-🚀 Currently focused on learning, building projects, and improving my skills every day.
+<p>
+🌐 Exploring modern web technologies and building projects to improve my development skills.
+</p>
 
-🎯 My goal is to become a skilled Python Full-Stack Developer and continue growing in AI/ML.
+<p>
+⚡ Currently learning, building, experimenting, and improving every day.
+</p>
 
----
+<br>
 
 <!-- ===================== TECH STACK ===================== -->
 
-## 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,sql,fastapi,react,mongodb" />
 </p>
 
----
+<br>
+
+<!-- ===================== TOOLS & DEVOPS ===================== -->
+
+<h2>⚙️ Tools & DevOps</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker,vercel,netlify" />
+</p>
+
+<br>
+
+<!-- ===================== PROJECTS ===================== -->
+
+<h2>🚀 Projects</h2>
+
+- 🩸 **Menstrual Cycle Analyser** — A Python-based project for menstrual cycle analysis.
+- 🧮 **Python Calculator** — A calculator built while learning Python fundamentals.
+- 🛒 **Shopping Billing Counter** — A Python-based billing system.
+- ⚖️ **Weight Converter** — A simple Python conversion tool.
+- 🗳️ **Election Age Verifier** — A Python program that verifies voting eligibility.
+- 🔐 **Username Login Browser** — A project exploring login and username validation.
+
+<br>
 
 <!-- ===================== GITHUB STATS ===================== -->
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdithyakrishnaKA&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<br>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyakrishnaKA&theme=tokyonight&hide_border=true" />
 </p>
 
+<br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyakrishnaKA&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
+
+<!-- ===================== FOOTER ===================== -->
+
+<p align="center">
+  🚀 Always learning. Always building. Always improving.
 </p>
