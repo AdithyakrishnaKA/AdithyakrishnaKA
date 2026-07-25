@@ -1,12 +1,16 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="./dark%20t%20%281%29.png" width="100%">
+  <img src="./bt.png" width="100%">
 </p>
 
 <br>
 
+<hr>
+
 <!-- ===================== SOCIAL LINKS ===================== -->
+
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
 
@@ -28,10 +32,10 @@
 
 <br>
 
+<hr>
+
 <!-- ===================== ABOUT ME ===================== -->
 
-
-<p>
 <h2>👨‍💻 About Me</h2>
 
 <pre><code>class AdithyaKrishna:
@@ -43,7 +47,10 @@
     side_quest = "Building projects and improving every day 🚀"
     fun_fact   = "I build things that connect code, applications, AI, and the real world 🤖"
 </code></pre>
+
 <br>
+
+<hr>
 
 <!-- ===================== TECH STACK ===================== -->
 
@@ -55,6 +62,8 @@
 
 <br>
 
+<hr>
+
 <!-- ===================== TOOLS & DEVOPS ===================== -->
 
 <h2>⚙️ Tools & DevOps</h2>
@@ -65,18 +74,85 @@
 
 <br>
 
+<hr>
+
 <!-- ===================== PROJECTS ===================== -->
 
 <h2>🚀 Projects</h2>
 
-- 🩸 **Menstrual Cycle Analyser** — A Python-based project for menstrual cycle analysis.
-- 🧮 **Python Calculator** — A calculator built while learning Python fundamentals.
-- 🛒 **Shopping Billing Counter** — A Python-based billing system.
-- ⚖️ **Weight Converter** — A simple Python conversion tool.
-- 🗳️ **Election Age Verifier** — A Python program that verifies voting eligibility.
-- 🔐 **Username Login Browser** — A project exploring username and login validation.
+<h3>🩸 Menstrual Cycle Analyser</h3>
+
+<p>
+A Python-based project for menstrual cycle analysis.
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<hr>
+
+<h3>🧮 Python Calculator</h3>
+
+<p>
+A calculator built while learning Python fundamentals.
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<hr>
+
+<h3>🛒 Shopping Billing Counter</h3>
+
+<p>
+A Python-based billing system.
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<hr>
+
+<h3>⚖️ Weight Converter</h3>
+
+<p>
+A simple Python conversion tool.
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<hr>
+
+<h3>🗳️ Election Age Verifier</h3>
+
+<p>
+A Python program that verifies voting eligibility.
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<hr>
+
+<h3>🔐 Username Login Browser</h3>
+
+<p>
+A project exploring username and login validation.
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
 <br>
+
+<hr>
 
 <!-- ===================== GITHUB STATS ===================== -->
 
@@ -99,6 +175,8 @@
 </p>
 
 <br>
+
+<hr>
 
 <!-- ===================== FOOTER ===================== -->
 
