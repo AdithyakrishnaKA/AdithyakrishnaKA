@@ -80,14 +80,28 @@
 
 <h2>🚀 Projects</h2>
 
-<h3>🩸 Menstrual Cycle Analyser</h3>
+<!-- ===================== PROJECTS ===================== -->
+
+<h2>🚀 Projects</h2>
+
+<h3>🩸 Menstrual Cycle Calculator</h3>
 
 <p>
-A Python-based project for menstrual cycle analysis.
+A responsive frontend web application that calculates menstrual cycle information using HTML, CSS, and JavaScript.
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+<p>
+  <a href="https://official-website-six-cyan.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel"/>
+  </a>
+
+  <a href="https://github.com/AdithyakrishnaKA/official-website">
+    <img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 <hr>
@@ -95,11 +109,17 @@ A Python-based project for menstrual cycle analysis.
 <h3>🧮 Python Calculator</h3>
 
 <p>
-A calculator built while learning Python fundamentals.
+A calculator built while learning Python fundamentals and improving programming logic.
 </p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p>
+  <a href="https://github.com/AdithyakrishnaKA">
+    <img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 <hr>
@@ -107,11 +127,17 @@ A calculator built while learning Python fundamentals.
 <h3>🛒 Shopping Billing Counter</h3>
 
 <p>
-A Python-based billing system.
+A Python-based billing system implementing calculations and user interaction.
 </p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p>
+  <a href="https://github.com/AdithyakrishnaKA">
+    <img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 <hr>
@@ -119,11 +145,17 @@ A Python-based billing system.
 <h3>⚖️ Weight Converter</h3>
 
 <p>
-A simple Python conversion tool.
+A simple Python conversion tool created to practice logic building.
 </p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p>
+  <a href="https://github.com/AdithyakrishnaKA">
+    <img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 <hr>
@@ -131,11 +163,17 @@ A simple Python conversion tool.
 <h3>🗳️ Election Age Verifier</h3>
 
 <p>
-A Python program that verifies voting eligibility.
+A Python program that checks voting eligibility using conditional statements.
 </p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p>
+  <a href="https://github.com/AdithyakrishnaKA">
+    <img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 <hr>
@@ -143,16 +181,20 @@ A Python program that verifies voting eligibility.
 <h3>🔐 Username Login Browser</h3>
 
 <p>
-A project exploring username and login validation.
+A project exploring username validation and login concepts.
 </p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-<br>
+<p>
+  <a href="https://github.com/AdithyakrishnaKA">
+    <img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
-<hr>
+<br>
 
 <!-- ===================== GITHUB STATS ===================== -->
 
