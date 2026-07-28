@@ -78,30 +78,35 @@
 
 <!-- ===================== PROJECTS ===================== -->
 
-
 <h2>🚀 Projects</h2>
+
+<table>
+<tr>
+
+<td width="50%">
 
 <h3>🩸 Menstrual Cycle Calculator</h3>
 
 <p>
-A responsive frontend web application that calculates menstrual cycle information using HTML, CSS, and JavaScript.
+A responsive frontend web application that calculates menstrual cycle information using HTML, CSS and JavaScript.
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 
-<p>
-  <a href="https://official-website-six-cyan.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel"/>
-  </a>
+<br><br>
 
-  <a href="https://github.com/AdithyakrishnaKA/official-website">
-    <img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<a href="https://official-website-six-cyan.vercel.app/">
+<img src="https://img.shields.io/badge/Live-Demo-black?style=for-the-badge&logo=vercel"/>
+</a>
 
-<hr>
+<a href="https://github.com/AdithyakrishnaKA/official-website">
+<img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+
+<td width="50%">
 
 <h3>🧮 Python Calculator</h3>
 
@@ -109,17 +114,22 @@ A responsive frontend web application that calculates menstrual cycle informatio
 A calculator built while learning Python fundamentals and improving programming logic.
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+<img src="https://skillicons.dev/icons?i=python"/>
 
-<p>
-  <a href="https://github.com/AdithyakrishnaKA">
-    <img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<br><br>
 
-<hr>
+<a href="https://github.com/AdithyakrishnaKA">
+<img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%">
 
 <h3>🛒 Shopping Billing Counter</h3>
 
@@ -127,17 +137,18 @@ A calculator built while learning Python fundamentals and improving programming 
 A Python-based billing system implementing calculations and user interaction.
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+<img src="https://skillicons.dev/icons?i=python"/>
 
-<p>
-  <a href="https://github.com/AdithyakrishnaKA">
-    <img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<br><br>
 
-<hr>
+<a href="https://github.com/AdithyakrishnaKA">
+<img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+
+<td width="50%">
 
 <h3>⚖️ Weight Converter</h3>
 
@@ -145,35 +156,35 @@ A Python-based billing system implementing calculations and user interaction.
 A simple Python conversion tool created to practice logic building.
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+<img src="https://skillicons.dev/icons?i=python"/>
 
-<p>
-  <a href="https://github.com/AdithyakrishnaKA">
-    <img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<br><br>
 
-<hr>
+<a href="https://github.com/AdithyakrishnaKA">
+<img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%">
 
 <h3>🗳️ Election Age Verifier</h3>
 
 <p>
-A Python program that checks voting eligibility using conditional statements.
+A Python program checking voting eligibility using conditions.
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+<img src="https://skillicons.dev/icons?i=python"/>
 
-<p>
-  <a href="https://github.com/AdithyakrishnaKA">
-    <img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+</td>
 
-<hr>
+
+<td width="50%">
 
 <h3>🔐 Username Login Browser</h3>
 
@@ -181,17 +192,13 @@ A Python program that checks voting eligibility using conditional statements.
 A project exploring username validation and login concepts.
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+<img src="https://skillicons.dev/icons?i=python"/>
 
-<p>
-  <a href="https://github.com/AdithyakrishnaKA">
-    <img src="https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+</td>
 
-<br>
+</tr>
+
+</table>
 
 <!-- ===================== GITHUB STATS ===================== -->
 
