@@ -6,6 +6,18 @@
 
 <br>
 
+<!-- ===================== PORTFOLIO ===================== -->
+
+<p align="center">
+
+  <a href="https://adithya-os-portfolio-bm7e.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀%20LIVE%20PORTFOLIO-ADITHYA%20OS-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+</p>
+
+<br>
+
 <hr>
 
 <!-- ===================== SOCIAL LINKS ===================== -->
@@ -105,7 +117,6 @@ A responsive frontend web application that calculates menstrual cycle informatio
 
 </td>
 
-
 <td width="50%">
 
 <h3>🧮 Python Calculator</h3>
@@ -125,7 +136,6 @@ A calculator built while learning Python fundamentals and improving programming 
 </td>
 
 </tr>
-
 
 <tr>
 
@@ -147,7 +157,6 @@ A Python-based billing system implementing calculations and user interaction.
 
 </td>
 
-
 <td width="50%">
 
 <h3>⚖️ Weight Converter</h3>
@@ -168,7 +177,6 @@ A simple Python conversion tool created to practice logic building.
 
 </tr>
 
-
 <tr>
 
 <td width="50%">
@@ -182,7 +190,6 @@ A Python program checking voting eligibility using conditions.
 <img src="https://skillicons.dev/icons?i=python"/>
 
 </td>
-
 
 <td width="50%">
 
