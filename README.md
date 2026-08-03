@@ -11,7 +11,7 @@
 <p align="center">
 
   <a href="https://adithya-os-portfolio-bm7e.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀%20LIVE%20PORTFOLIO-ADITHYA%20OS-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%20LIVE%20PORTFOLIO-ADITHYA%20OS-black?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
 </p>
